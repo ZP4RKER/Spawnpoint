@@ -1,6 +1,7 @@
 name: Spawnpoint
 author: ZP4RKER
 version: 1.0
+main: com.zp4rker.yazza.Spawnpoint
 commands:
     setspawn:
     spawn:
