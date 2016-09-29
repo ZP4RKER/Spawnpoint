@@ -1,0 +1,6 @@
+name: Spawnpoint
+author: ZP4RKER
+version: 1.0
+commands:
+    setspawn:
+    spawn:
